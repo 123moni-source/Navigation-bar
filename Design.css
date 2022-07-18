@@ -1,0 +1,25 @@
+ul{
+    justify-content: right;
+    align-items: center;
+    background-color: gray;
+    display: flex;
+    
+    }
+    a{
+    color: white;
+    text-decoration: none;
+    }
+    li{
+    border: 0px;
+    margin: 20px;
+    border-style: solid;
+    display: inline;
+    font-size:xx-large;
+    text-align: center;
+    }
+    nav a:hover{
+    background-color: rgb(57, 124, 184);
+    color: rgb(34, 20, 164);
+    }
+    
+    
